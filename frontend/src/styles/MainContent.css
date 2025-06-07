@@ -1,0 +1,6 @@
+.main-content{
+    width: 100%;
+    /* overflow: auto;  */
+    max-height: 90vh;
+    padding-left: 20%;
+}

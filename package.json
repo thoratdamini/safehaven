@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "concurrently": "^8.2.2"
+  },
+  "name": "final-project-team-refugee",
+  "description": "SafeHaven is a web application designed to assist refugees in finding suitable camps and accessing necessary resources. Whether it's food, education, employment, healthcare, or housing, SafeHaven aims to provide a platform where refugees can easily locate and connect with relevant support services.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && npm start",
+    "sass": "cd frontend && npm run sass",
+    "start": "concurrently \"npm run frontend\" \"npm run backend\" \"npm run sass\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.75.0"
+  }
+}

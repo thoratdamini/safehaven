@@ -1,0 +1,43 @@
+h3 {
+    margin-top: 100px;
+    color: #000;
+}
+
+.form-container {
+    color: #fff;
+    text-align: center;
+}
+
+.form-container .MuiFormControl-root,
+.form-container .MuiTextField-root {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.form-container .MuiInputLabel-root {
+    color: #000;
+}
+
+.form-container .MuiOutlinedInput-input {
+    color: #000;
+}
+
+.form-container .MuiInputLabel-root {
+    color: #000;
+}
+
+.form-container .MuiOutlinedInput-input {
+    color: #000;
+}
+
+.form-container .MuiOutlinedInput-notchedOutline {
+    border-color: #000 !important;
+}
+
+.form-container .input-label {
+    color: #000 !important;
+}
+
+.form-container .input-props {
+    color: #000 !important;
+}

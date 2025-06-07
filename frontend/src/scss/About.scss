@@ -1,0 +1,24 @@
+.root {
+    margin-top: 50px;
+  }
+  
+  .paper-container {
+    padding: 50px;
+    padding-top: 150px;
+    // padding-bottom: 100px; // this line is commented out
+    // background-color: #EEEEEE !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    // height: 300px;
+  }
+  
+  .left-content,
+  .right-content {
+    width: 100%;
+  }
+  
+  .additional-item {
+    display: flex;
+    flex-direction: column;
+  }
+  

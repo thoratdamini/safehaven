@@ -1,0 +1,25 @@
+.root {
+  margin-top: 50px;
+}
+
+.paper-container {
+  padding: 50px;
+  padding-top: 150px;
+  /* padding-bottom: 100px; */
+  /* background-color: #EEEEEE !important; */
+  /* color: #000 !important; */
+  box-shadow: none !important;
+}
+
+.left-content {
+  width: 100%;
+}
+
+.right-content {
+  width: 100%;
+}
+
+.additional-item {
+  display: flex;
+  flex-direction: column;
+}

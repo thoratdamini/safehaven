@@ -1,0 +1,39 @@
+h3 {
+    margin-top: 100px;
+    color: #000;
+  }
+  
+  .form-container {
+    color: #fff;
+    text-align: center;
+  
+    .MuiFormControl-root,
+    .MuiTextField-root {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    .MuiInputLabel-root {
+      color: #000;
+    }
+  
+    .MuiOutlinedInput-input {
+      color: #000;
+    }
+  
+    .MuiOutlinedInput-notchedOutline {
+      border-color: #000 !important;
+    }
+  
+    .input-label,
+    .input-props {
+      color: #000 !important;
+    }
+  }
+  
+  .query {
+    // background-image: url('../images/query.webp');
+    background-size: cover;
+    border-radius: 50%;
+  }
+  
